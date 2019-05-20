@@ -1,2 +1,2 @@
 # Test
-test repo for git hats at lpc 2019
+This is a test repository for the CMS Git/GitHub Tutorial.
